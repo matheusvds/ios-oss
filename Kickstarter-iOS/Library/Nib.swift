@@ -16,6 +16,7 @@ public enum Nib: String {
   case SettingsCurrencyCell
   case SettingsCurrencyPickerCell
   case SettingsFormFieldView
+  case SettingsFooterView
   case SettingsHeaderView
   case SettingsNewslettersCell
   case SettingsNewslettersTopCell
